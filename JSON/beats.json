@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "name": "",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "",
+    "pitch": "B3",
+    "pattern": "00010010"
+  },
+  {
+    "name": "",
+    "pitch": "F4",
+    "pattern": "1111"
+  },
+  {
+    "name": "",
+    "pitch": "F#4",
+    "pattern": "00000010"
+  },
+  {
+    "name": "",
+    "pitch": "C4",
+    "pattern": "0010100101001010"
+  }
+]

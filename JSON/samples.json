@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Beat - COMP 122",
+    "file": "samples/Beat - COMP 122.m4a",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "Synth - COMP 122",
+    "file": "samples/Synth- COMP 122.m4a",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "E Guitar - COMP 122",
+    "file": "samples/E Guitar - COMP 122.m4a",
+    "bpm": "120",
+    "loop": "4m"
+  }
+]
